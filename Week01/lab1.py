@@ -4,7 +4,7 @@
 # Question 2: Defining an array (list)
 my_array = [1, 4, 7, 9]
 
-# Question 3: Order of Operations
+# Question 3: Order of operations
 a = 1
 b = 2
 c = 3
