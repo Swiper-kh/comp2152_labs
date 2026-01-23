@@ -1,4 +1,4 @@
-#Solution for the week 2 lab exercise
+#Solution for the week 2 lab Exercise
 
 import random
 
